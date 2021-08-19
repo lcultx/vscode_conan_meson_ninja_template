@@ -1,3 +1,5 @@
 .clangd
 build/
+debug/
 compile_commands.json
+.vscode/.conan_tools
